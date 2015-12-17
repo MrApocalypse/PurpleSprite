@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Purple Sprite</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="test_title">I am the title</string>
+    <string name="test_summary">I am the cheese</string>
+    <string name="lights">I am the lights</string>
+    <string name="notifications">I am the notifications</string>
+    <string name="powermenu">I am the powermenu</string>
+    <string name="statusbar">I am the statusbar</string>
+    <string name="ui">I am the ui</string>
+    <string name="sounds">I am the sounds</string>
+    <string name="recents">I am the recents</string>
+    <string name="lockscreen">I am the lockscreen</string>
+    <string name="navigation">I am the navigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

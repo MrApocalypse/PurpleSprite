@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ui"
+            android:title="Interface" />
+        <item
+            android:id="@+id/notifications"
+            android:title="Notifications" />
+        <item
+            android:id="@+id/sounds"
+            android:title="Sounds" />
+        <item
+            android:id="@+id/lockscreen"
+            android:title="Lockscreen" />
+        <item
+            android:id="@+id/navigation"
+            android:title="Navigation" />
+        <item
+            android:id="@+id/statusbar"
+            android:title="Statusbar" />
+        <item
+            android:id="@+id/recents"
+            android:title="Recents" />
+        <item
+            android:id="@+id/powermenu"
+            android:title="Power Menu" />
+        <item
+            android:id="@+id/lights"
+            android:title="Lights" />
+    </group>
+
+    <item android:title="Extra">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:title="About Screwd" />
+            <item
+                android:id="@+id/changelog"
+                android:title="Changelog" />
+        </menu>
+    </item>
+</menu>
