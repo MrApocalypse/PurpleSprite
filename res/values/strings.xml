@@ -4,17 +4,26 @@
     <string name="drawer_close">Close navigation drawer</string>
     <string name="test_title">I am the title</string>
     <string name="test_summary">I am the cheese</string>
-    <string name="lights">I am the lights</string>
-    <string name="notifications">I am the notifications</string>
-    <string name="powermenu">I am the powermenu</string>
-    <string name="statusbar">I am the statusbar</string>
-    <string name="ui">I am the ui</string>
-    <string name="sounds">I am the sounds</string>
-    <string name="recents">I am the recents</string>
-    <string name="lockscreen">I am the lockscreen</string>
-    <string name="navigation">I am the navigation</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- The real shit!! -->
+
+    <!--Navbar titles -->
+    <string name="extra">Extra</string>
+    <string name="ui_title">Interface</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="sounds_title">Sounds</string>
+    <string name="lockscreen_title">Lockscreen</string>
+    <string name="navigation_title">Navigation</string>
+    <string name="statusbar_title">Statusbar</string>
+    <string name="recents_title">Recents</string>
+    <string name="powermenu_title">PowerMenu</string>
+    <string name="lights_title">Lights</string>
+    <string name="about_title">About Screw\'d</string>
+    <string name="changelog_title">Changelog</string>
+    <string name="welcome">Welcome to Purple Sprite! Nothing to see right here, slide the navigation drawer to access the goods!</string>
+    <string name="press_back_again">Press back again to leave</string>
 
 </resources>

@@ -4,41 +4,41 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/ui"
-            android:title="Interface" />
+            android:title="@string/ui_title" />
         <item
             android:id="@+id/notifications"
-            android:title="Notifications" />
+            android:title="@string/notifications_title" />
         <item
             android:id="@+id/sounds"
-            android:title="Sounds" />
+            android:title="@string/sounds_title" />
         <item
             android:id="@+id/lockscreen"
-            android:title="Lockscreen" />
+            android:title="@string/lockscreen_title" />
         <item
             android:id="@+id/navigation"
-            android:title="Navigation" />
+            android:title="@string/navigation_title" />
         <item
             android:id="@+id/statusbar"
-            android:title="Statusbar" />
+            android:title="@string/statusbar_title" />
         <item
             android:id="@+id/recents"
-            android:title="Recents" />
+            android:title="@string/recents_title" />
         <item
             android:id="@+id/powermenu"
-            android:title="Power Menu" />
+            android:title="@string/powermenu_title" />
         <item
             android:id="@+id/lights"
-            android:title="Lights" />
+            android:title="@string/lights_title" />
     </group>
 
-    <item android:title="Extra">
+    <item android:title="@string/extra">
         <menu>
             <item
                 android:id="@+id/about"
-                android:title="About Screwd" />
+                android:title="@string/about_title" />
             <item
                 android:id="@+id/changelog"
-                android:title="Changelog" />
+                android:title="@string/changelog_title" />
         </menu>
     </item>
 </menu>
